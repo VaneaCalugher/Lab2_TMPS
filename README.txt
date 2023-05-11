@@ -2,7 +2,6 @@ Calugher Ion
 TI-204
 
 Subiect: Modele de design creațional
-Autor: Calugher Ion
 Obiective:
     1. Studiați și înțelegeți modelele de design creațional.
     2. Alegeți un domeniu, definiți-i principalele clase/modele/entități și alegeți mecanismele de instanțiere adecvate.
